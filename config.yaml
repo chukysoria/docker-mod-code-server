@@ -1,6 +1,6 @@
 ---
 image: docker-mod-code-server
-version: v0.1.1
+version: v0.1.2
 name: CodeServer
 description: "Coder MOD customized to share data with Remote SSH VS Code"
 ext_release: v1.0.0
